@@ -126,10 +126,9 @@ The project maintains a multi-module structure for better organization, scalabil
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Android - PDF Editor Suite.git](https://github.com/your-username/Android - PDF Editor Suite.git)
+    git clone [https://github.com/VishaL6i9/Android-PDF-Editor-Suite.git](https://github.com/VishaL6i9/Android-PDF-Editor-Suite.git)
     cd Android - PDF Editor Suite
     ```
-    *(Replace `https://github.com/your-username/Android - PDF Editor Suite.git` with your actual repository URL)*
 2.  **Open in Android Studio:** Open the cloned project in Android Studio (ensure you have the latest stable version with Android 15 SDK support).
 3.  **Sync Gradle:** Let Gradle sync the project dependencies.
 4.  **Build and Run:** Select your desired emulator (running Android 15 for full feature testing) or a physical device, and click the 'Run' button in Android Studio.
